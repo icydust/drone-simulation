@@ -1,6 +1,6 @@
 # Drone Simulation
 
-&nbsp; Drone simulation made using MATLAB and Stateflow
+&nbsp; Flocking simulation made using MATLAB and Stateflow
 <br />
 
 
